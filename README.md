@@ -5,6 +5,7 @@
 [![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://ajalalab.com/blend/)
 [![GitHub release](https://img.shields.io/github/v/tag/cascadiaquakes/blend?label=release&sort=semver)](https://github.com/cascadiaquakes/blend/releases/latest)
 [![License](https://img.shields.io/badge/license-LGPL--3.0-blue.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23091422.svg)](https://doi.org/10.5281/zenodo.23091422)
 
 ## What is BLEND?
 
