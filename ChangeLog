@@ -1,3 +1,22 @@
+2026-10-01  BLEND 2.0.2
+
+	Changes since version 2.0.1:
+
+	* Updated the version header test to match the release version.
+	  2.0.1 shipped with this test still expecting 2.0.0; the library
+	  itself is unchanged.
+
+2026-10-01  BLEND 2.0.1
+
+	Changes since version 2.0.0:
+
+	* Moved the official repository to github.com/cascadiaquakes/blend.
+	* Copyright is now held by the CRESCENT cyberinfrastructure team.
+	* Added Zenodo (.zenodo.json) and citation (CITATION.cff) metadata.
+	* Updated boundary handling, API tests, and README.
+	* Fixed documentation version links and selector, CI triggers,
+	  and license and release badges.
+
 2026-07-04  BLEND 2.0.0
 
 	Changes since version 1.1.2:
