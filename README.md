@@ -1,9 +1,9 @@
 # BLEND
 
-[![CI](https://github.com/Bioye97/blend/actions/workflows/ci.yml/badge.svg)](https://github.com/Bioye97/blend/actions/workflows/ci.yml)
-[![Documentation](https://github.com/Bioye97/blend/actions/workflows/pages.yml/badge.svg)](https://github.com/Bioye97/blend/actions/workflows/pages.yml)
-[![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://bioye97.github.io/blend/)
-[![GitHub release](https://img.shields.io/github/v/tag/Bioye97/blend?label=release&sort=semver)](https://github.com/Bioye97/blend/releases/tag/v2.0.0)
+[![CI](https://github.com/cascadiaquakes/blend/actions/workflows/ci.yml/badge.svg)](https://github.com/cascadiaquakes/blend/actions/workflows/ci.yml)
+[![Documentation](https://github.com/cascadiaquakes/blend/actions/workflows/pages.yml/badge.svg)](https://github.com/cascadiaquakes/blend/actions/workflows/pages.yml)
+[![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://ajalalab.com/blend/)
+[![GitHub release](https://img.shields.io/github/v/tag/cascadiaquakes/blend?label=release&sort=semver)](https://github.com/cascadiaquakes/blend/releases/latest)
 [![License](https://img.shields.io/badge/license-LGPL--3.0-blue.svg)](LICENSE)
 
 ## What is BLEND?
@@ -17,7 +17,7 @@ Full documentation: [https://ajalalab.com/blend/](https://ajalalab.com/blend/)
 Download the source and build with CMake:
 
 ```sh
-git clone https://github.com/Bioye97/blend.git
+git clone https://github.com/cascadiaquakes/blend.git
 cd blend
 cp cmake/ConfigUserTemplate.cmake cmake/ConfigUser.cmake
 mkdir build

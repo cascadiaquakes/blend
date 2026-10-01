@@ -9,7 +9,7 @@ needed, and configure from a separate build directory:
 
 .. code-block:: sh
 
-   git clone https://github.com/Bioye97/blend.git
+   git clone https://github.com/cascadiaquakes/blend.git
    cd blend
    cp cmake/ConfigUserTemplate.cmake cmake/ConfigUser.cmake
    mkdir build

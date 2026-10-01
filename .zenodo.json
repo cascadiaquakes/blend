@@ -1,0 +1,18 @@
+{
+  "title": "BLEND: Function localization on the regular Cartesian grid",
+  "upload_type": "software",
+  "description": "BLEND is a library and collection of command-line programs for localizing functions using arbitrarily shaped support on the regular Cartesian grid. Applications include filter design, spectral analysis, and the synthesis (merging) of multidimensional models and datasets.",
+  "creators": [
+    {
+      "name": "Ajala, Rasheed",
+      "affiliation": "Lamont-Doherty Earth Observatory, Columbia University",
+      "orcid": "0000-0001-5650-8362"
+    },
+    {
+      "name": "CRESCENT cyberinfrastructure team",
+      "affiliation": "Cascadia Region Earthquake Science Center (CRESCENT)"
+    }
+  ],
+  "license": "LGPL-3.0-or-later",
+  "version": "2.0.1"
+}

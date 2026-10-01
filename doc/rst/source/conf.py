@@ -8,7 +8,7 @@ from docutils.parsers.rst import Directive
 
 project = "BLEND"
 author = "Rasheed Ajala"
-copyright = "2026, Rasheed Ajala"
+copyright = "2026, The CRESCENT cyberinfrastructure team"
 
 release = "2.0.0"
 version = release
@@ -40,8 +40,8 @@ html_theme_options = {
 
 def _blend_versions():
     default_versions = [
-        ("devel-2.0", "https://bioye97.github.io/blend/"),
-        ("2.0.0", "https://bioye97.github.io/blend/2.0.0/"),
+        ("devel-2.0", "https://ajalalab.com/blend/"),
+        ("2.0.0", "https://ajalalab.com/blend/2.0.0/"),
     ]
     raw_versions = os.environ.get("BLEND_DOC_VERSIONS")
     if not raw_versions:
@@ -62,7 +62,7 @@ def _blend_versions():
 
 html_context = {
     "display_github": True,
-    "github_user": "Bioye97",
+    "github_user": "cascadiaquakes",
     "github_repo": "blend",
     "github_version": os.environ.get("BLEND_DOC_GITHUB_VERSION", "devel-2.0"),
     "conf_py_path": "/doc/rst/source/",

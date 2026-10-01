@@ -15,7 +15,7 @@ static void blend_usage(void)
 {
     printf("\n");
     printf("BLEND - Function localization using arbitrary support, Version %s\n", BLEND_VERSION);
-    printf("\t(c) 2021-2026 Rasheed Ajala.\n\n");
+    printf("\t(c) 2021-2026 The CRESCENT cyberinfrastructure team.\n\n");
     printf("\tBLEND is distributed under the GNU LGPL License (https://www.gnu.org/licenses/lgpl.html).\n");
     printf("\tDependencies: C standard library, libm.\n\n");
     printf("usage: blend [options]\n");

@@ -58,7 +58,7 @@ Download the source from GitHub:
 
 .. code-block:: sh
 
-   git clone https://github.com/Bioye97/blend.git
+   git clone https://github.com/cascadiaquakes/blend.git
    cd blend
 
 To update an existing source tree later, run ``git pull`` from the BLEND source
