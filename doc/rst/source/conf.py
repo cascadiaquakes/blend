@@ -40,8 +40,8 @@ html_theme_options = {
 
 def _blend_versions():
     default_versions = [
-        ("devel-2.0", "https://ajalalab.com/blend/"),
-        ("2.0.0", "https://ajalalab.com/blend/2.0.0/"),
+        ("devel-2.0", "https://cascadiaquakes.github.io/blend/"),
+        ("2.0.0", "https://cascadiaquakes.github.io/blend/2.0.0/"),
     ]
     raw_versions = os.environ.get("BLEND_DOC_VERSIONS")
     if not raw_versions:

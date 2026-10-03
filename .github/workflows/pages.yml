@@ -20,7 +20,7 @@ jobs:
     name: Build documentation
     runs-on: ubuntu-latest
     env:
-      BLEND_DOC_VERSIONS: '[["devel-2.0","https://ajalalab.com/blend/"],["2.0.0","https://ajalalab.com/blend/2.0.0/"]]'
+      BLEND_DOC_VERSIONS: '[["devel-2.0","https://cascadiaquakes.github.io/blend/"],["2.0.0","https://cascadiaquakes.github.io/blend/2.0.0/"]]'
     steps:
       - name: Checkout BLEND development source
         uses: actions/checkout@v6

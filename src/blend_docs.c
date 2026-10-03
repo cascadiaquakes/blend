@@ -25,7 +25,7 @@
 #endif
 
 #ifndef BLEND_DOC_SERVER_URL
-#define BLEND_DOC_SERVER_URL "https://ajalalab.com/blend/"
+#define BLEND_DOC_SERVER_URL "https://cascadiaquakes.github.io/blend/"
 #endif
 
 typedef struct docs_page_alias {

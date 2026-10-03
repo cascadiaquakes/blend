@@ -178,7 +178,7 @@ if(BLEND_BUILD_TESTS)
   set_tests_properties(
     blend_docs_module_lookup
     PROPERTIES
-      PASS_REGULAR_EXPRESSION "(file://.*/doc/html/modules/window2d.html|https://ajalalab.com/blend/modules/window2d.html)"
+      PASS_REGULAR_EXPRESSION "(file://.*/doc/html/modules/window2d.html|https://cascadiaquakes.github.io/blend/modules/window2d.html)"
   )
   add_test(
     NAME blend_docs_option_lookup
@@ -187,7 +187,7 @@ if(BLEND_BUILD_TESTS)
   set_tests_properties(
     blend_docs_option_lookup
     PROPERTIES
-      PASS_REGULAR_EXPRESSION "(file://.*/doc/html/modules/window1d.html#r|https://ajalalab.com/blend/modules/window1d.html#r)"
+      PASS_REGULAR_EXPRESSION "(file://.*/doc/html/modules/window1d.html#r|https://cascadiaquakes.github.io/blend/modules/window1d.html#r)"
   )
   add_test(
     NAME blend_docs_server_lookup
@@ -196,7 +196,7 @@ if(BLEND_BUILD_TESTS)
   set_tests_properties(
     blend_docs_server_lookup
     PROPERTIES
-      PASS_REGULAR_EXPRESSION "https://ajalalab.com/blend/reference/windows.html"
+      PASS_REGULAR_EXPRESSION "https://cascadiaquakes.github.io/blend/reference/windows.html"
   )
   add_test(
     NAME blend_docs_query_must_be_first
@@ -500,7 +500,7 @@ target_compile_definitions(
   PRIVATE
     BLEND_DOC_HTML_DIR_BUILD="${BLEND_DOC_HTML_DIR}"
     BLEND_DOC_HTML_DIR_INSTALL="${CMAKE_INSTALL_PREFIX}/${BLEND_INSTALL_DOCDIR}/html"
-    BLEND_DOC_SERVER_URL="https://ajalalab.com/blend/"
+    BLEND_DOC_SERVER_URL="https://cascadiaquakes.github.io/blend/"
 )
 
 add_custom_command(

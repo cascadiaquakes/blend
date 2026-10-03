@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/cascadiaquakes/blend/actions/workflows/ci.yml/badge.svg)](https://github.com/cascadiaquakes/blend/actions/workflows/ci.yml)
 [![Documentation](https://github.com/cascadiaquakes/blend/actions/workflows/pages.yml/badge.svg)](https://github.com/cascadiaquakes/blend/actions/workflows/pages.yml)
-[![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://ajalalab.com/blend/)
+[![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](https://cascadiaquakes.github.io/blend/)
 [![GitHub release](https://img.shields.io/github/v/tag/cascadiaquakes/blend?label=release&sort=semver)](https://github.com/cascadiaquakes/blend/releases/latest)
 [![License](https://img.shields.io/badge/license-LGPL--3.0-blue.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23091422.svg)](https://doi.org/10.5281/zenodo.23091422)
@@ -11,7 +11,7 @@
 
 BLEND is a library and collection of command-line programs for localizing functions using arbitrarily shaped support on the regular Cartesian grid. Applications include filter design, spectral analysis, and the synthesis (or merging) of multidimensional models and datasets (e.g., Ajala & Persaud, [2021](https://scholar.google.com/scholar?q=Effect+of+merging+multiscale+models+on+seismic+wavefield+predictions+near+the+southern+San+Andreas+fault), [2022](https://scholar.google.com/scholar?q=Ground-motion+evaluation+of+hybrid+seismic+velocity+models), and Ajala et al. [2025](https://www.researchgate.net/publication/392232576_Toward_an_Accessible_Framework_for_Synthesizing_Solid_Earth_Models_Across_Multiple_Scales)).
 
-Full documentation: [https://ajalalab.com/blend/](https://ajalalab.com/blend/)
+Full documentation: [https://cascadiaquakes.github.io/blend/](https://cascadiaquakes.github.io/blend/)
 
 ## Building and installation
 
