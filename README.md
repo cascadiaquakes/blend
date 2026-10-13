@@ -118,5 +118,17 @@ If you use BLEND in your work, please cite the following references:
    USA, vol. 96, p. 1364.
 
 
-## Acknowledgment
-The BLEND package design is inspired by the [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/) and was funded by [CRESCENT](https://cascadiaquakes.org) and [NSF](https://www.nsf.gov).
+## Acknowledgments
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/cascadiaquakes/.github/main/assets/crescent-circle.png" alt="CRESCENT Logo" width="150" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/cascadiaquakes/.github/main/assets/nsf-logo.png" alt="NSF Logo" width="450" />
+    </td>
+  </tr>
+</table>
+
+The BLEND package design is inspired by the [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/) and was funded by [CRESCENT](https://cascadiaquakes.org) and [NSF](https://www.nsf.gov) (Cooperative Agreement EAR-2225286).
